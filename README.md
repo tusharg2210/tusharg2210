@@ -146,4 +146,4 @@ I write production software the same way I read a circuit — with intent, toler
 
 * 📧 **Gmail**: [tushargnita@gmail.com](mailto:tushargnita@gmail.com)
 * 💼 **LinkedIn**: [linkedin.com/in/tushargnita/](https://www.linkedin.com/in/tushargnita/)
-* 💻 **Portfolio App**: Run `npm run dev` inside `/frontend` to view the 3D smooth-scrolling portfolio locally.
+* 💻 **Portfolio**: [https://tusharg.vercel.app/](https://tusharg.vercel.app/)
