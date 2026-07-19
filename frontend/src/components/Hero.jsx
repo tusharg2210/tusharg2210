@@ -31,7 +31,7 @@ export default function Hero() {
   const opacityImg = useTransform(scrollYProgress, [0, 0.2], [0.35, 1]);
 
   return (
-    <section id="top" ref={ref} data-testid="hero" className="relative min-h-[100svh] w-full overflow-hidden border-b border-[var(--line)]">
+    <section id="/" ref={ref} data-testid="hero" className="relative min-h-[100svh] w-full overflow-hidden border-b border-[var(--line)]">
       {/* Parallax background image */}
       <motion.div style={{ y: yImg, opacity: opacityImg }} className="absolute inset-0 -z-0" aria-hidden>
         <img

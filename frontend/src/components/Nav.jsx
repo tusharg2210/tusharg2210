@@ -41,7 +41,7 @@ export default function Nav() {
         }`}
     >
       <div className="mx-auto max-w-[1600px] px-6 md:px-10 h-16 flex items-center justify-between">
-        <a href="#top" data-testid="nav-logo" className="font-mono text-xs tracking-widest uppercase text-white">
+        <a href="/" data-testid="nav-logo" className="font-mono text-xs tracking-widest uppercase text-white">
           <span className="text-[var(--volt)]">/</span>PORTFOLIO
         </a>
 
