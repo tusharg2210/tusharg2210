@@ -13,32 +13,6 @@ export const profile = {
     "I'm Tushar Gupta, a 4th year B.Tech student at NIT Agartala with experience in full-stack development, AI benchmarking, and building scalable web applications. I'm currently seeking opportunities to contribute, learn, and grow as a software engineer.",
 };
 
-export const manifesto = [
-  {
-    n: "01",
-    title: "Signal over noise.",
-    body:
-      "I do not ship features; I ship decisions. Every commit is a hypothesis, every deploy a measurement. I strip the abstract until it draws current.",
-  },
-  {
-    n: "02",
-    title: "Systems, not scripts.",
-    body:
-      "From RBAC architectures serving 10k+ users to AI benchmarking pipelines that killed 90% of manual evaluation — I build the graph, not the leaf.",
-  },
-  {
-    n: "03",
-    title: "Numbers keep me honest.",
-    body:
-      "1913 on LeetCode. 1351 on Codeforces. Top 4% at Adobe India Hackathon. I compete because rating is proof that the algorithm actually ran.",
-  },
-  {
-    n: "04",
-    title: "Hardware is the source of truth.",
-    body:
-      "Electrical engineering taught me that the abstraction eventually meets the transistor. That discipline is what I carry into every line of code.",
-  },
-];
 
 export const experience = [
   {
@@ -191,15 +165,3 @@ export const education = [
   },
 ];
 
-export const marqueeWords = [
-  "NODE",
-  "REACT",
-  "TAILWIND",
-  "MERN",
-  "DSA",
-  "SYSTEMS",
-  "COMPETITION",
-  "BENCHMARKS",
-  "SHIP",
-  "SCALE"
-];

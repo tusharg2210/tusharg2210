@@ -2,7 +2,6 @@ import "@/App.css";
 import SmoothScroll from "./components/SmoothScroll";
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
-import EditorialMarquee from "./components/Marquee";
 import Portrait from "./components/Portrait";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
@@ -22,7 +21,6 @@ function App() {
         <Nav />
         <main>
           <Hero />
-          <EditorialMarquee />
           <Portrait />
           <Projects />
           <Experience />
