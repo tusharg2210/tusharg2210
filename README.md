@@ -1,4 +1,4 @@
-# ⚡ Tushar Gupta
+# Tushar Gupta
 ### SDE × Electrical Engineering Student at NIT Agartala
 
 <div align="center">
