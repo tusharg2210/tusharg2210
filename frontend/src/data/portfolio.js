@@ -127,7 +127,7 @@ export const skills = [
       "Tailwind CSS",
       "REST",
       "GraphQL",
-      "Motion",
+      "Framer-Motion",
       "C++ STL",
     ],
   },

@@ -1,5 +1,6 @@
 import { profile } from "../data/portfolio";
 
+
 export default function Footer() {
   return (
     <footer data-testid="footer" className="border-t border-[var(--line)] bg-black">

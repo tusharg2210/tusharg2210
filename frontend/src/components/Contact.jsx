@@ -2,6 +2,8 @@ import { motion } from "framer-motion";
 import { profile } from "../data/portfolio";
 import { ArrowUpRight } from "lucide-react";
 
+
+
 export default function Contact() {
   return (
     <section id="contact" data-testid="contact" className="relative py-24 md:py-40 border-b border-[var(--line)]">
