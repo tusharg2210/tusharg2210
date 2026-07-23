@@ -15,23 +15,26 @@ import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
-    <SmoothScroll>
-      <div className="min-h-screen bg-black text-white antialiased" data-testid="app-root">
-        <div className="noise-overlay" aria-hidden />
-        <Nav />
-        <main>
-          <Hero />
-          <Portrait />
-          <Projects />
-          <Experience />
-          <Education />
-          <Skills />
-          <Achievements />
-          <Contact />
-        </main>
-        <Footer />
-      </div>
-    </SmoothScroll>
+    <>
+      <Analytics />
+      <SmoothScroll>
+        <div className="min-h-screen bg-black text-white antialiased" data-testid="app-root">
+          <div className="noise-overlay" aria-hidden />
+          <Nav />
+          <main>
+            <Hero />
+            <Portrait />
+            <Projects />
+            <Experience />
+            <Education />
+            <Skills />
+            <Achievements />
+            <Contact />
+          </main>
+          <Footer />
+        </div>
+      </SmoothScroll>
+    </>
   );
 }
 
